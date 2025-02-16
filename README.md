@@ -10,6 +10,10 @@
 - ✨ Yo hablo un poco espanol (совсем немного, но я не останавливаюсь на достигнутом~)
 - 🦀 Владею слепым 10-ти пальцевым методом печати как на русской (65 WPM, 97% acc), так и английской (43 WPM, 95% acc) раскладках
 - 🕹️ Писал и тестировал квесты для приватного сервера игры **Ragnarok Online**
+- 🌟 Участвовал в ЗБТ по инвайтам Genshin Impact до того, как это стало мейнстримом :3
+---
+
+<img align="center" src="https://media1.tenor.com/m/D2H0hPltOdYAAAAd/golden-boy-fake-keyboard-programing-coding-paper-book.gif" alt="me at testing">
 
 ---
 
@@ -45,7 +49,7 @@
 - [Работа с базами данных](https://github.com/Leesmike/database)
 - [Работа с bash](https://github.com/Leesmike/bash)
 
-## Контакты для связи!~
+## Контакты для связи~
 <a href="https://t.me/Elsydeon90" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram"/></a>
 <a href="https://discordapp.com/users/100968069903417344" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/3670/3670157.png" width="40" height="40" alt="discord"/></a>
 <a href= "mailto:esparmansion@gmail.com" target="_blank"><img src="https://img.icons8.com/?size=512&id=P7UIlhbpWzZm&format=png" width="40" height="40" alt="gmail"/></a>
