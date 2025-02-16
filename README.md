@@ -45,7 +45,7 @@
 - [Работа с базами данных](https://github.com/Leesmike/database)
 - [Работа с bash](https://github.com/Leesmike/bash)
 
-## Давай оставаться на связи!~
+## Контакты для связи!~
 <a href="https://t.me/Elsydeon90" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" width="40" height="40" alt="telegram"/></a>
 <a href="https://discordapp.com/users/100968069903417344" target="_blank"><img src="https://cdn-icons-png.flaticon.com/512/3670/3670157.png" width="40" height="40" alt="discord"/></a>
 <a href= "mailto:esparmansion@gmail.com" target="_blank"><img src="https://img.icons8.com/?size=512&id=P7UIlhbpWzZm&format=png" width="40" height="40" alt="gmail"/></a>
