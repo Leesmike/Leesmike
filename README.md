@@ -5,7 +5,7 @@
 
 ## Немного обо мне
 
-- ✅ Окончил functional software testing course от [Артема Русова](https://github.com/artichokeee)
+- ✅ Окончил functional software testing course от [Артема Русова](https://github.com/artichokeee), получив [сертификат](https://github.com/Leesmike/CV-and-certificates/blob/main/Mikhail_Li_QA_certificate_8897572.pdf)
 - 🏆 Прошёл сертификацию [EF SET](https://www.efset.org/) на навыки чтения и понимания на слух английского с результатом [C2 Proficient](https://cert.efset.org/F1ZrY2) 
 - ✨ Yo hablo un poco espanol (совсем немного, но я не останавливаюсь на достигнутом~)
 - 🦀 Владею слепым 10-ти пальцевым методом печати как на русской (65 WPM, 97% acc), так и английской (43 WPM, 95% acc) раскладках
@@ -18,8 +18,6 @@
 С моим резюме можно ознакомиться [по этой ссылке](https://drive.google.com/file/d/1PpSCPAj6y1Q2w6lJGaoPysGNqvcWjH80/view?usp=sharing)
 
 ---
-
-
 
 <img align="center" src="https://media1.tenor.com/m/D2H0hPltOdYAAAAd/golden-boy-fake-keyboard-programing-coding-paper-book.gif" alt="me at testing">
 
